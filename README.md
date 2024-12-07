@@ -11,7 +11,6 @@ A simple website built with React to display notes from a separate file.
 Clone the repository and follow the steps:
 
 ```bash
-git clone https://github.com/your-username/react-note-website.git
-cd react-note-website
+git clone https://github.com/naz-rezaei/note.git
 npm install
 npm start
